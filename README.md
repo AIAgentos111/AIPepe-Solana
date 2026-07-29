@@ -1,2 +1,2 @@
 # Aipepe111
-Building the core infrastructure for AI Pepe Agent 🚀
+Building the core infrastructure for AI Pepe 🚀
